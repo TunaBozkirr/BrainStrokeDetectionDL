@@ -1,2 +1,2 @@
 # BrainStrokeDetectionDL
-Brain Stroke Detection System with Deep Learning
+Python script for image segmentation using a U-Net architecture. 
